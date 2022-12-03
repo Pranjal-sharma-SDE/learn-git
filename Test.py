@@ -1,2 +1,2 @@
 print("jai maa kali")
-print(9+9)
+print("Sumis equal to",9+9)
